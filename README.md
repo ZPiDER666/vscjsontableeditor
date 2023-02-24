@@ -1,4 +1,4 @@
-This file may be outdated - please refer to the Extension page in VSCode for the most current version!
+This file may be outdated - please refer to the Extension page in VSCode or here https://marketplace.visualstudio.com/items?itemName=Alturos.vscjsontableeditor for the most current version of the documentation!
 
 # JSON Table Editor
 
