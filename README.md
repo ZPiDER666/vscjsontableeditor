@@ -4,7 +4,7 @@ This file may be outdated - please refer to the Extension page in VSCode or here
 
 With this extension you can edit certain types of JSON files conveniently in a table view. It works best with arrays of objects inside of a specific wrapper structure. This editor is mainly geared towards editing testcase files for data driven testing.
 
-![Demo](images/default-animation.gif?raw=true)
+![Demo](images/default-animation-2.gif?raw=true)
 See below for example cats.ts.js
 
 ## Features
