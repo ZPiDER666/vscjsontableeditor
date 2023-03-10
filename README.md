@@ -231,8 +231,6 @@ The extension currently does not offer any general settings, however certain use
 - the extension was only tested on Mac
 
 ## Future Features
-- better wide table support
-- use color coding to better show objects similar to VSCode bracket coloring
 - checkbox UI for Boolean type
 - hotkey help similar to empty vsc page below table
 - automatically refresh status after run testcase
@@ -242,6 +240,10 @@ The extension currently does not offer any general settings, however certain use
 
 ## Release Notes
 See CHANGELOG.md for details.
+### 0.7.0
+- 👾 celebrating 256 installs!
+- context highlight
+- mouse controls (move up, move down, delete, insert, clone)
 ### 0.6.0
 - support for `"date"` schema types
 - display key-helpers (hold Ctrl or Alt/Option)
